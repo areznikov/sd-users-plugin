@@ -28,7 +28,7 @@ or implied, of Artur Reznikov.
 """
 
 __author__ = "Artur Reznikov <areznikov@live.com>"
-__version__ = "1.0.2"
+__version__ = "1.0.0"
 
 import subprocess
 
