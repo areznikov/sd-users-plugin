@@ -1,6 +1,6 @@
 """Server Density plugin for monitoring linux users currently on the server 
 
-Copyright 2011  Artur Reznikov areznikov@live.com. All rights reserved.
+Copyright 2012  Artur Reznikov areznikov@live.com. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are
 permitted provided that the following conditions are met:
